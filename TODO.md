@@ -1,7 +1,7 @@
 - [x] Prompt 基础. ✅ 2026-07-02
 - [ ] Structured Output.
 - [ ] XML Prompt.
-- [ ] Context Engineering.
+- [ ] Context Engineering. ✅ 2026-08-28
 - [ ] Tool Calling.
 - [ ] MCP.
 - [ ] AI Agent.

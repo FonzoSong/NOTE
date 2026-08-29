@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O&M/Cloud-Native/ZeroTrustArchitecture/AuthenticationSystem.md",
+                "file": "O&M/basic/ManualSigningAndTrustOfKernelModulesUnderSecureBoot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AuthenticationSystem"
+              "title": "ManualSigningAndTrustOfKernelModulesUnderSecureBoot"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O&M/Cloud-Native/ZeroTrustArchitecture/AuthenticationSystem.md",
+                "file": "O&M/basic/ManualSigningAndTrustOfKernelModulesUnderSecureBoot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AuthenticationSystem"
+              "title": "大纲"
             }
           },
           {
@@ -171,31 +173,37 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c60ad9e52728001",
+  "active": "346d3d59792d0f7d",
   "lastOpenFiles": [
+    "TODO.md",
+    "O&M/README.md",
+    "O&M/basic/ManualSigningAndTrustOfKernelModulesUnderSecureBoot.md",
+    "O&M/basic/SELinux.md",
+    "O&M/Cloud-Native/ZeroTrustArchitecture/AuthenticationSystem.md",
     "O&M/Cloud-Native/ZeroTrustArchitecture/WhatIsZeroTrust.md",
     "O&M/Cloud-Native/ZeroTrustArchitecture/WhyDoWeWeedZeroTrustArchitecture.md",
     "O&M/Cloud-Native/ZeroTrustArchitecture/ZeroTrustPracticesInKubernetes.md",
@@ -205,7 +213,6 @@
     "O&M/Cloud-Native/ZeroTrustArchitecture/MTLSDeepDiveCryptographicFoundationForZeroTrustCommunication.md",
     "O&M/Cloud-Native/ZeroTrustArchitecture/HighPerformanceTuning.md",
     "O&M/Cloud-Native/ZeroTrustArchitecture/Policy Engine.md",
-    "O&M/Cloud-Native/ZeroTrustArchitecture/CoreComponentsOfZeroTrust.md",
-    "O&M/Cloud-Native/ZeroTrustArchitecture/AuthenticationSystem.md"
+    "O&M/Cloud-Native/ZeroTrustArchitecture/CoreComponentsOfZeroTrust.md"
   ]
 }
